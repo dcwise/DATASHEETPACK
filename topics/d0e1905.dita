@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1905"><title>Low Pass Active Filter</title><body><p>The low pass active filter is shown in Figure 5. The DC gain is defined by –R2/R1. The filter has a -20dB/decade roll-off after its corner frequency ƒC=1/(2πR3C1).</p><p><image href="../images/image146.png" height="26" width="16" alt="???"/><image href="../images/image121.png" height="87" width="87" alt="???"/><image href="../images/image126.png" height="130" width="118" alt="???"/></p><p>Figure 5. Low Pass Active Filter</p></body></topic>

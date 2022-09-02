@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1701"><title>Rail-to-Rail Input</title><body><p>The input common-mode range of GS600X family extends 100mV beyond the supply rails (VSS-0.1V to VDD+0.1V). This is achieved by using complementary input stage. For normal operation, inputs should be limited to this range.</p></body></topic>

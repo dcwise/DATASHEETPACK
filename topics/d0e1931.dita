@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1931"><title>Instrumentation Amplifier</title><body><p>The triple GS600X family can be used to build a three-op-amp instrumentation amplifier as shown in Figure 6. The amplifier in Figure 6 is a high input impedance differential amplifier with gain of R2/R1. The two differential voltage followers assure the high input impedance of the amplifier.</p><p><image href="../images/image152.png" alt="???"/>.</p></body></topic>

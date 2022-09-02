@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1668"><title>Power Supply Bypassing and Board Layout</title><body><p>GS600X family series operates from a single 1.8V to 6V supply or dual ±0.9V to ±3V supplies. For best performance, a 0.1µF ceramic capacitor should be placed close to the VDD pin in single supply operation. For dual supply operation, both VDD and VSS supplies should be bypassed to ground with separate 0.1µF ceramic capacitors.</p></body></topic>

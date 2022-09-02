@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1688"><title>Operating Voltage</title><body><p>GS600X family operates under wide input supply voltage (1.8V to 6V). In addition, all temperature specifications apply from</p><p>-40 <sup>o</sup>C to +125 <sup>o</sup>C. Most behavior remains unchanged throughout the full operating voltage range. These guarantees ensure operation throughout the single Li-Ion battery lifetime.</p></body></topic>

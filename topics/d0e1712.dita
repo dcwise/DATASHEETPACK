@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1712"><title>Rail-to-Rail Output</title><body><p>Rail-to-Rail output swing provides maximum possible dynamic range at the output. This is particularly important when operating in low supply voltages. The output voltage of GS600X family can typically swing to less than 10mV from supply rail in light resistive loads (&gt;100kΩ), and 60mV of supply rail in moderate resistive loads (10kΩ).</p></body></topic>

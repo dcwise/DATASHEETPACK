@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e1524"><title>Typical Performance characteristics</title><body><p>At TA=+25<sup>o</sup>C, Vs=5V, RL=100KΩ connected to VS/2 and VOUT= VS/2, unless otherwise noted.</p><p>Large Signal Transient Response	Small Signal Transient Response</p><p>Output Voltage (250mV/div)</p><p><image href="../images/image87.png" alt="???"/>CL=100pF RL=100kΩ G=+1</p><p>0</p><p>0</p><p>pF kΩ</p><p>Output Voltage (50mV/div)</p><p>CL=10 RL=10 G=+1</p><p>Time(10µs/div)</p><p>CMRR vs. Frequency</p><p>Time(2µ /div)</p><p>s</p><p>PSRR vs. Frequency</p><p>CMRR (dB)</p><p>PSRR (dB)</p><p>Frequency (kHz)	Frequency (kHz)</p><p>o</p><p>Vs=5V G=-5</p><p>VIN=500mV</p><p>Supply Current vs. Temperature	Overload Rec very Time</p><p>Supply Current (µA)</p><p>Vs=5.5V  </p><p>Vs=1.8V</p><p>Vs=5V</p><p>Temperature (℃)	Time(2µs/div)</p></body></topic>
