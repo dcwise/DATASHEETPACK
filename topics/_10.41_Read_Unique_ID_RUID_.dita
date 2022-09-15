@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_10.41_Read_Unique_ID_RUID_"><title>Read Unique ID (RUID)</title><body><p>The Read Unique ID command accesses a factory-set read-only 128bit number that is unique to each P25Qxx device. The Unique ID can be used in conjunction with user software methods to help prevent copying or cloning of a system.</p><p>The Read Unique ID command sequence: CS# goes low → sending Read Unique ID command →Dummy Byte1 →Dummy Byte2 →Dummy Byte3 → Dummy Byte4 → 128bit Unique ID Out → CS# goes high.</p><p>The command sequence is show below.</p><p><image href="../images/image225.png" height="134" width="143" alt="???"/><b>Figure 10-42 Read Unique ID (RUID) Sequence (Command 4B)</b></p></body></topic>

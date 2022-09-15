@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e6727"><title>LB3, LB2, LB1, bits.</title><body><p>The LB3, LB2, LB1, bits are non-volatile One Time Program (OTP) bits in Status Register (S13-S11) that provide the write protect control and status to the Security Registers. The default state of LB3-LB1are0, the security registers are unlocked. The LB3-LB1bitscan be set to 1 individually using the Write Register instruction. The LB3-LB1bits are One Time Programmable, once its set to 1, the Security Registers will become read-only</p><p>permanently.</p></body></topic>

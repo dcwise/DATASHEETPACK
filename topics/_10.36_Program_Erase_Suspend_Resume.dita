@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_10.36_Program_Erase_Suspend_Resume"><title>Program/Erase Suspend/Resume</title><body><p>The Suspend instruction interrupts a Page Program, Sector Erase, or Block Erase operation to allow access to the memory array. After the program or erase operation has entered the suspended state, the memory array can be read except for the page being programmed or the sector or block being erased.</p></body></topic>

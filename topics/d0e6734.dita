@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e6734"><title>CMP bit</title><body><p>The CMP bit is a non-volatile Read/Write bit in the Status Register(S14). It is used in conjunction the BP4-BP0 bits to provide more flexibility for the array protection. Please see the table “Protected Area Size” for details.</p><p>The default setting is CMP=0.</p></body></topic>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_10.2_Write_Enable_WREN_"><title>Write Enable (WREN)</title><body><p>The Write Enable (WREN) instruction is for setting Write Enable Latch (WEL) bit. For those instructions like PP,DPP,QPP, PE,SE, BE32K,BE, CE, and WRSR,ERSCUR, PRSCUR which are intended to change the device content, should be set every time after the WREN instruction setting the WEL bit.</p><p>The sequence of issuing WREN instruction is: CS# goes low→ sending WREN instruction code→ CS# goes high.</p><p><b>Figure 10-2 Write Enable (WREN) Sequence (Command 06)</b></p><p><image href="../images/image50.png" height="135" width="143" alt="???"/></p></body></topic>

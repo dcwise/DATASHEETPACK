@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e10356"><title>Notes:</title><body><ol><li>Please note that Program only available after the Erase-Suspend operation</li><li>To check suspend ready information, please read status register bit15 (SUS2) and bit10(SUS1)</li></ol></body></topic>

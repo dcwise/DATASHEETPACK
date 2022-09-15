@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e50"><title>Single 1.65V to 2.0V supply</title><body><p>Industrial Temperature Range -40C to 85C</p><p>Serial Peripheral Interface (SPI) Compatible: Mode 0 and Mode 3</p><p>Single, Dual and Quad IO mode</p><ul><li>8M x 1 bit</li><li>4M x 2 bits</li><li>2M x 4 bits</li></ul></body></topic>

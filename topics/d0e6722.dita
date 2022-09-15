@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e6722"><title>QE bit.</title><body><p>The Quad Enable (QE) bit is a non-volatile Read/Write bit in the Status Register that allows Quad operation. When the QE bit is set to 0 (Default) the WP# pin and HOLD# pin are enable. When the QE pin is set to 1, the Quad IO2 and IO3 pins are enabled. (The QE bit should never be set to 1 during standard SPI or Dual SPI operation if the WP# or HOLD# pins are tied directly to the power supply or ground)</p></body></topic>

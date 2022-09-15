@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e6516"><title>BP4, BP3, BP2, BP1, BP0 bits.</title><body><p>The Block Protect (BP4, BP3, BP2, BP1, and BP0) bits are non-volatile. They define the size of the area to be software protected against Program and Erase commands. These bits are written with the Write Status Register (WRSR) command. When the Block Protect (BP4, BP3, BP2, BP1, BP0) bits are set to 1, the relevant memory area (as defined in Table “Protected Area Sizes”).becomes protected against Page Program (PP), Page Erase (PE), Sector Erase (SE) and Block Erase (BE) commands. The Block Protect (BP4, BP3, BP2, BP1, and BP0) bits can be written provided that the Hardware Protected mode has not been set. The Chip Erase (CE) command is executed, only if the Block Protect (BP4, BP3, BP2, BP1and BP0) are set to “None protected”.</p></body></topic>

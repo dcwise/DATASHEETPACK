@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_10.6_Read_Configure_Register_RDCR_"><title>Read Configure Register (RDCR)</title><body><p>The RDCR instruction is for reading Configure Register Bits. The Read Configure Register can be read at any time (even in program/erase/write status register condition). It is recommended to check the Write in Progress (WIP) bit before sending a new instruction when a program, erase, or write status register operation is in progress.</p><p>The sequence of issuing RDCR instruction is: CS# goes low→ sending RDCR instruction code→ Configure Register data out on SO. The SIO[3:1] are "don't care".</p><p><image href="../images/image56.png" height="135" width="143" alt="???"/><b>Figure 10-6 Read Status Register (RDCR) Sequence (Command 15)</b></p></body></topic>

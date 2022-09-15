@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e146"><title>Industry Standard Green Package Options</title><body><ul><li>8-pin	SOP (150mil/208mil)</li></ul><p>-	8-land	USON (3x2x0.55mm/3x2x0.45mm/3x4x0.55mm)</p><ul><li>8-land	WSON (6x5x0.75mm)</li><li>8-pin	TSSOP</li><li>WLCSP</li><li>KGD for SiP</li></ul></body></topic>

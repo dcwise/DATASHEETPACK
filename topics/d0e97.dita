@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e97"><title>128 bit unique ID for each device</title><body><p>Fast Program and Erase Speed</p><ul><li>2ms	Page program time</li><li>8ms	Page erase time</li><li>8ms	4K-byte sector erase time</li><li>8ms	32K-byte block erase time</li><li>8ms	64K-byte block erase time</li></ul></body></topic>

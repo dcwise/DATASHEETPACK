@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_4_Block_Diagram"><title>Block Diagram</title><body><p>CS#</p><p>SCK</p><p>SI SO</p><p>X -DECODER</p><p>WP# HOLD#</p><p>V<b>CC </b>GND</p></body></topic>

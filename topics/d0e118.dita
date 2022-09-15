@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e118"><title>JEDEC Standard Manufacturer and Device ID Read Methodology</title><body><p>Ultra Low Power Consumption</p><ul><li>0.1uA	Deep Power Down current</li><li>9uA	Standby current</li><li>2.5mA	Active Read current at 33MHz</li><li>3.0mA	Active Program or Erase current</li></ul></body></topic>

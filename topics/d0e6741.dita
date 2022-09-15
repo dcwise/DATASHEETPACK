@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e6741"><title>SUS1, SUS2bit</title><body><p>The SUS1 and SUS2bit are read only bit in the status register (S15and S10) that are set to 1 after executing an Program/Erase Suspend (75H or B0H) command (The Erase Suspend will set the SUS1 to 1,and the Program Suspend will set the SUS2 to 1). The SUS1 and SUS2 bit are cleared to 0 by Program/Erase Resume (7AH or 30H) command as well as a power-down, power-up cycle.</p></body></topic>

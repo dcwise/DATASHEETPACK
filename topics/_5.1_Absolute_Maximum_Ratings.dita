@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_5.1_Absolute_Maximum_Ratings"><title>Absolute Maximum Ratings</title><body><ul><li>Storage Temperature	..-65°C to +150°C</li><li>Operation Temperature	..-40°C to +85°C</li><li>Maximum Operation Voltage	V</li><li>Voltage on Any Pin with<p>respect to Ground.	V to + 2.5V</p></li><li>DC Output Current	5.0 mA</li></ul></body></topic>

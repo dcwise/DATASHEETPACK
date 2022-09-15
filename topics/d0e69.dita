@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e69"><title>Flexible Architecture for Code and Data Storage</title><body><ul><li>Uniform 256-byte	Page Program</li><li>Uniform 256-byte	Page Erase</li><li>Uniform 4K-byte	Sector Erase</li><li>Uniform 32K/64K-byte Block Erase</li><li>Full Chip Erase</li></ul></body></topic>

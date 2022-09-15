@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e2288"><title>At Device Power-Up and Power-Down</title><body><p>AC timing illustrated in "Figure AC Timing at Device Power-Up" and "Figure Power-Down Sequence" are for the supply voltages and the control signals at device power-up and power-down. If the timing in the figures is ignored, the device will not operate correctly.</p><p>During power-up and power-down, CS# needs to follow the voltage applied on VCC to keep the device not to be selected. The CS# can be driven low when VCC reach Vcc(min.) and wait a period of tVSL.</p><p><b>Figure 5-8	AC Timing at Device Power-Up</b></p><p><image href="../images/image30.png" height="356" width="115" alt="???"/></p><p><b>Figure 5-9 Power-up Timing</b></p><p><image href="../images/image34.png" height="128" width="136" alt="???"/></p></body></topic>

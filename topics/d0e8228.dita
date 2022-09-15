@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e8228"><title>Note:</title><body><p>1. 4 X IO Read Performance Enhance Mode, if M5-4 = 1, 0. If not using performance enhance recommend to set M5-4 ≠ 1, 0.</p><p>SO(IO1)	<u> 	</u></p><p>WP#(IO2)	<u> 	</u> HOLD#(IO3)  <u> 	</u></p></body></topic>

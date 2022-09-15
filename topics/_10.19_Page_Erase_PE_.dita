@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="_10.19_Page_Erase_PE_"><title>Page Erase (PE)</title><body><p>The Page Erase (PE) instruction is for erasing the data of the chosen Page to be "1". A Write Enable (WREN) instruction must execute to set the Write Enable Latch (WEL) bit before sending the Page Erase (PE).</p><p>To perform a Page Erase with the standard page size (256 bytes), an opcode of 81h must be clocked into the device followed by three address bytes comprised of 2 page address bytes that specify the page in the main memory to be erased, and 1 dummy byte.</p><p>The sequence of issuing PE instruction is: CS# goes low → sending PE instruction code→ 3-byte address on SI</p><p>→ CS# goes high.</p><p><image href="../images/image113.png" height="135" width="143" alt="???"/><b>Figure 10-19 Page Erase Sequence (Command 81)</b></p></body></topic>
